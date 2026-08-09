@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/Akki789/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Akki789/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akki789/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
