@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/Akki789/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Akki789/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0724-find-pivot-index](https://github.com/Akki789/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -33,5 +34,6 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Akki789/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
