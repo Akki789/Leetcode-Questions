@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/Akki789/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akki789/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akki789/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Akki789/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/Akki789/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akki789/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akki789/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Akki789/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
