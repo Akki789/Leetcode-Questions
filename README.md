@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/Akki789/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Akki789/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akki789/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0560-subarray-sum-equals-k](https://github.com/Akki789/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Akki789/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/Akki789/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akki789/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akki789/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Akki789/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Akki789/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Akki789/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Akki789/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Akki789/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
