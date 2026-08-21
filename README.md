@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Akki789/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Akki789/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
